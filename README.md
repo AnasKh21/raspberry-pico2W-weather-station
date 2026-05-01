@@ -6,9 +6,9 @@ The Pico reads temperature, humidity and pressure from a BME280 sensor and expos
 
 ---
 
-## 📸 Dashboard
-
-![Dashboard](weather-station.jpeg)
+<p align="center">
+  <img src="weather-station.jpeg" width="250"/>
+</p>
 
 ---
 
